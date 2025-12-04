@@ -75,3 +75,9 @@
 * **Integración con APIs externas** (clima real, noticias, agenda personal).
 * **Mejor manejo de errores y feedback en tiempo real**.
 * **Posibilidad de ejecutarse continuamente en segundo plano** escuchando palabras clave ("Hey asistente").
+
+## Imagenes de la ejecucion del programa
+
+![Ejecucion del programa](/codelab1/ReconocimientoDeVoz/imgs/ReconocimientoVoz.png)
+
+![Ejecucion del programa](/codelab1/ReconocimientoDeVoz/imgs/ReconocimientoVoz1.png)
