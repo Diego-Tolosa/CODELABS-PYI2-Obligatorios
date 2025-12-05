@@ -48,7 +48,7 @@ model.compile(
 history = model.fit(  
     X, y,  
     epochs=5000,       # muchas épocas porque XOR no es lineal  
-    verbose=0         # 0 = sin logs, cámbialo a 1 para ver entrenamiento  
+    verbose=1         # 0 = sin logs, cámbialo a 1 para ver entrenamiento  
 )
 
 # ------------------------------  
