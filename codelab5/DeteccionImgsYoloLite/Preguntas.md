@@ -13,3 +13,13 @@
 3. **¿Dónde aplicarías esta técnica en un proyecto IoT o web?**
 
     Podría aplicarse en cámaras inteligentes, drones o sistemas de vigilancia IoT, y en páginas web con detección visual en tiempo real, gracias a su bajo consumo de recursos y rapidez.
+
+## Imagenes de la ejecucion del programa
+
+![Ejecucion del programa](/codelab5/DeteccionImgsYoloLite/imgs/Yolo-Lite.png)
+
+![Ejecucion del programa](/codelab5/DeteccionImgsYoloLite/imgs/Yolo_lite1.png)
+
+![Ejecucion del programa](/codelab5/DeteccionImgsYoloLite/imgs/Yolo-LiteReal.png)
+
+![Ejecucion del programa](/codelab5/DeteccionImgsYoloLite/imgs/Yolo-LiteJSON.png)
